@@ -1,0 +1,19 @@
+{
+  "name": "npm_registry_test_sample",
+  "version": "1.0.0",
+  "description": "npm deploy test project",
+  "author": "heechankang",
+  "bin": {
+    "log-run": "bin/cli.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sample"
+  ],
+  "files": [
+    "cli"
+  ],
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
